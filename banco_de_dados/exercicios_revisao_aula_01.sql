@@ -217,7 +217,6 @@ CREATE TABLE livros(
 );
 
 -- preenchendo as tabelas
-
 INSERT INTO cidades (nome, uf)
 VALUES ('São Paulo', 'SP'),
 ('Rio de Janeiro', 'RJ');
